@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/cookie</item>
+        <item>@font/inter_extrabold</item>
+        <item>@font/oleo_script</item>
+        <item>@font/oleo_script2</item>
+    </array>
+</resources>

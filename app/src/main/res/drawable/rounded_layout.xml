@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="32dp" /> <!-- Ajusta el radio según sea necesario -->
+    <solid android:color="#684328" /> <!-- Color de fondo del LinearLayout -->
+</shape>
